@@ -2195,91 +2195,91 @@
     "message": "La tecnología blockchain ofrece la solución a una serie de retos tradicionales, ya sean financieros, sociales o tecnológicos. Elimina la intermediación en relaciones fundamentales y redistribuye el poder para mitigar las costosas dependencias, los paradigmas restrictivos y los sistemas ineficientes de transacción e intercambio. Cardano es una materialización de este potencial. Se trata de una plataforma que cumple con los estándares de seguridad, privacidad, sostenibilidad y rendimiento necesarios para acelerar la adopción masiva de la tecnología y sustentar un ecosistema duradero."
   },
   "discoverCardano.opportunity.text3": {
-    "message": "Cardano powers new, more secure, and globally scalable solutions. Its technology is continuously improved upon through evidence-based development methods, and guided by a democratic voting system, in which every member has a voice. The opportunity of Cardano is adaptable to your use case. It is an opportunity that creates other opportunities, continuously."
+    "message": "Cardano impulsa soluciones nuevas, más seguras y escalables a nivel mundial. Su tecnología se mejora continuamente mediante métodos de desarrollo basados en la evidencia y se rige por un sistema de votación democrático, en el que todos los miembros tienen voz. Las posibilidades que ofrece Cardano se adaptan a tus necesidades. Es una oportunidad que gcrea otras oportunidades, continuamente."
   },
   "entities.hero.title": {
-    "message": "Entities building on Cardano"
+    "message": "Empresas construyendo en Cardano"
   },
   "entities.hero.description": {
-    "message": "Numerous independent entities, including companies actively building on Cardano, collaborate to advance the platform and ensure it remains aligned with its mission."
+    "message": "Numerosas entidades independientes, incluidas las empresas que trabajan activamente en Cardano, colaboran para avanzar en la plataforma y asegurar que permanezca alineada con su misión."
   },
   "entities.meta.title": {
-    "message": "Organizations Building on Cardano"
+    "message": "Organizaciones construyendo en Cardano"
   },
   "entities.meta.description": {
-    "message": "Numerous independent entities, including companies actively building on Cardano, collaborate to advance the platform and ensure it remains aligned with its mission."
+    "message": "Numerosas entidades independientes, incluidas las empresas que trabajan activamente en Cardano, colaboran para avanzar en la plataforma y asegurar que permanezca alineada con su misión."
   },
   "entities.entitiesSection.divider": {
-    "message": "Entities advancing Cardano"
+    "message": "Entidades que avanzan Cardano"
   },
   "entities.companiesSection.divider": {
-    "message": "Companies, associations, and collaborations building on Cardano"
+    "message": "Empresas, asociaciones, y colaboraciones construyendo en Cardano"
   },
   "entities.companiesSection.description": {
-    "message": "There is a growing number of entities that build on Cardano. Below are a few of them:"
+    "message": "Cada vez son más las entidades que desarrollan proyectos basados en Cardano. A continuación se enumeran algunas de ellas:"
   },
   "entities.companiesSection.addCompanyLink": {
-    "message": "add your company"
+    "message": "añadir tu empresa"
   },
   "events.hero.title": {
-    "message": "Cardano Events"
+    "message": "Eventos de Cardano"
   },
   "events.hero.description": {
-    "message": "Upcoming Cardano events in one place, so you never miss a chance to connect, learn, and grow with the Cardano Community."
+    "message": "Los próximos eventos de Cardano, en un mismo lugar, para que nunca te pierdas la oportunidad de conectar, aprender y crecer con la comunidad de Cardano."
   },
   "events.pagination.previous": {
-    "message": "Previous"
+    "message": "Anterior"
   },
   "events.pagination.next": {
-    "message": "Next"
+    "message": "Siguiente"
   },
   "events.meta.title": {
-    "message": "Cardano Events, Conferences and Meetups"
+    "message": "Eventos Cardano, Conferencias y Reuniones"
   },
   "events.meta.description": {
-    "message": "Upcoming Cardano events in one place, so you never miss a chance to connect, learn, and grow with the Cardano Community."
+    "message": "Los próximos eventos de Cardano, en un mismo lugar, para que nunca te pierdas la oportunidad de conectar, aprender y crecer con la comunidad de Cardano."
   },
   "events.divider.discoverWorldwide": {
-    "message": "Discover Cardano Events Worldwide"
+    "message": "Descubre eventos de Cardano en todo el mundo"
   },
   "events.platforms.luma": {
-    "message": "Events on Luma.com"
+    "message": "Eventos en Luma.com"
   },
   "events.platforms.meetup": {
-    "message": "Events on Meetup.com"
+    "message": "Eventos en Meetup.com"
   },
   "events.divider.upcomingHighlighted": {
-    "message": "Upcoming highlighted Events"
+    "message": "Próximos eventos destacados"
   },
   "events.divider.pastHighlighted": {
-    "message": "Past Highlighted Events"
+    "message": "Eventos Destacados Pasados"
   },
   "events.recapAvailable": {
-    "message": "Recap available:"
+    "message": "Resumen disponible:"
   },
   "events.watchHere": {
-    "message": "Watch here"
+    "message": "Ver aquí"
   },
   "exchanges.hero.title": {
-    "message": "Integrate Cardano"
+    "message": "Integra Cardano"
   },
   "exchanges.hero.description": {
-    "message": "Easy integration with Cardano. All of the upgrades. None of the maintenance."
+    "message": "Fácil integración con Cardano. Todas las mejoras. Nada de mantenimiento."
   },
   "exchanges.layout.title": {
-    "message": "Integrate Cardano, Exchange and Wallet Partnerships"
+    "message": "Integrar asociaciones con Cardano, plataformas de intercambio y monederos electrónicos"
   },
   "exchanges.layout.description": {
-    "message": "Integrate Cardano into your exchange, wallet, or payment platform. Access documentation, resources, and partnership opportunities for ada support."
+    "message": "Integra Cardano en tu plataforma de intercambio, monedero o plataforma de pago. Accede a la documentación, los recursos y las oportunidades de colaboración para la compatibilidad con ada."
   },
   "exchanges.intro.description": {
-    "message": "There are various [ways to integrate Cardano](https://developers.cardano.org), one of which is Adrestia. The Adrestia team focuses on supporting exchange and developer integrations by providing a wallet SDK and set of APIs that make it easier for developers and exchanges to integrate and interact with Cardano across releases."
+    "message": "Existen varias [formas de integrar Cardano](https://developers.cardano.org), una de las cuales es Adrestia. El equipo de Adrestia se centra en facilitar las integraciones de las plataformas de intercambio y los desarrolladores, proporcionando un SDK para carteras y un conjunto de API que facilitan a los desarrolladores y a las plataformas de intercambio la integración y la interacción con Cardano en todas las versiones."
   },
   "exchanges.whyAdrestia.divider": {
-    "message": "Why Adrestia?"
+    "message": "¿Por qué Adrestia?"
   },
   "exchanges.whyAdrestia.leftText": {
-    "message": "Blockchains - and especially Cardano - are fast developing. Staying up to date with releases can become a maintenance challenge. We're committed to making it as easy as possible to develop and integrate with Cardano. Through Adrestia, Cardano is adaptable to your systems and requirements."
+    "message": "Las cadenas de bloques - y en especial, Cardano - están evolucionando rápidamente. Mantenerse al día de las nuevas versiones puede suponer un reto en cuanto al mantenimiento. Nos comprometemos a facilitar al máximo el desarrollo y la integración con Cardano. Gracias a Adrestia, Cardano se adapta a tus sistemas y necesidades."
   },
   "exchanges.whyAdrestia.rightText": {
     "message": "Improvements to Cardano should not mean greater complexity or resource overhead. We want to innovate and deploy improvements as they're available, and as they become necessary. This might mean a few updates one month, and many the next. Adrestia is a consistent SDK and set of GraphQL APIs that make it easy for developers to create applications and maintain core compatibility and functionality with the Cardano network across releases."
