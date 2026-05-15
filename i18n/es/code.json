@@ -2282,22 +2282,22 @@
     "message": "Las cadenas de bloques - y en especial, Cardano - están evolucionando rápidamente. Mantenerse al día de las nuevas versiones puede suponer un reto en cuanto al mantenimiento. Nos comprometemos a facilitar al máximo el desarrollo y la integración con Cardano. Gracias a Adrestia, Cardano se adapta a tus sistemas y necesidades."
   },
   "exchanges.whyAdrestia.rightText": {
-    "message": "Improvements to Cardano should not mean greater complexity or resource overhead. We want to innovate and deploy improvements as they're available, and as they become necessary. This might mean a few updates one month, and many the next. Adrestia is a consistent SDK and set of GraphQL APIs that make it easy for developers to create applications and maintain core compatibility and functionality with the Cardano network across releases."
+    "message": "Las mejoras en Cardano no deberían significar una mayor complejidad o sobrecarga de recursos. Queremos innovar y desplegar mejoras a medida que estén disponibles, y a medida que sean necesarias. Esto podría significar algunas actualizaciones un mes, y muchas el siguiente. Adrestia es un SDK consistente y un conjunto de APIs GraphQL que facilitan a los desarrolladores la creación de aplicaciones y el mantenimiento de la compatibilidad y funcionalidad de núcleo con la red Cardano a través de lanzamientos."
   },
   "exchanges.cta1.title": {
-    "message": "Focus On What Matters. Leave The Rest To Us."
+    "message": "Concéntrate en lo que importa. Déjanos el resto a nosotros."
   },
   "exchanges.cta1.buttonLabel": {
-    "message": "Access Adrestia"
+    "message": "Acceso a Adrestia"
   },
   "exchanges.accessAdrestia.divider": {
-    "message": "Access Adrestia"
+    "message": "Acceso a Adrestia"
   },
   "exchanges.whatMakesDifferent.title": {
-    "message": "What makes Adrestia different?"
+    "message": "¿Qué hace que Adrestia sea diferente?"
   },
   "exchanges.whatMakesDifferent.description1": {
-    "message": "Cardano's architecture is built for modularity and adaptability. Through Adrestia, we're able to save developers and exchanges significant maintenance overhead and, most importantly, time."
+    "message": "La arquitectura de Cardano está construida para modularidad y adaptabilidad. A través de Adrestia, podemos ahorrar desarrolladores e intercambios significativos de mantenimiento y, lo que es más importante, tiempo."
   },
   "exchanges.whatMakesDifferent.description2": {
     "message": "Unlike most blockchain API suites, Adrestia decouples and splits out key services from the core Cardano node. The new SDK and APIs are consistent across releases, which means developers are not required to re-learn the platform with each release. Adrestia offers a host of self-contained services and ways to query, transact, and extract information."
