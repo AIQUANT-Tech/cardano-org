@@ -2300,34 +2300,34 @@
     "message": "La arquitectura de Cardano está construida para modularidad y adaptabilidad. A través de Adrestia, podemos ahorrar desarrolladores e intercambios significativos de mantenimiento y, lo que es más importante, tiempo."
   },
   "exchanges.whatMakesDifferent.description2": {
-    "message": "Unlike most blockchain API suites, Adrestia decouples and splits out key services from the core Cardano node. The new SDK and APIs are consistent across releases, which means developers are not required to re-learn the platform with each release. Adrestia offers a host of self-contained services and ways to query, transact, and extract information."
+    "message": "A diferencia de la mayoría de las suites API de blockchain, Adrestia desconecta y divide los servicios clave del núcleo del nodo Cardano. El nuevo SDK y las APIs son consistentes a través de lanzamientos, lo que significa que los desarrolladores no están obligados a volver a aprender la plataforma con cada lanzamiento. Adrestia ofrece un gran número de servicios autónomos y formas de consultar, transaccionar y extraer información."
   },
   "exchanges.benefits.reduceTime.title": {
     "message": "Reducir el tiempo a mercado"
   },
   "exchanges.benefits.reduceTime.text": {
-    "message": "Develop applications for Cardano without worrying about new releases breaking your code."
+    "message": "Desarrollar aplicaciones para Cardano sin preocuparse por nuevas versiones que rompan tu código."
   },
   "exchanges.benefits.reduceDowntime.title": {
-    "message": "Reduce Downtime"
+    "message": "Reduce el tiempo de caída"
   },
   "exchanges.benefits.reduceDowntime.text": {
-    "message": "Fewer backward compatibility issues mean significantly reduced downtime."
+    "message": "Menos cuestiones de compatibilidad hacia atrás significan una reducción significativa del tiempo de inactividad."
   },
   "exchanges.benefits.reduceMaintenance.title": {
-    "message": "Reduce Maintenance Costs"
+    "message": "Reduce los costos de mantenimiento"
   },
   "exchanges.benefits.reduceMaintenance.text": {
-    "message": "Spend less time and resources on maintaining application compatibility across releases."
+    "message": "Emplea menos tiempo y recursos en mantener la compatibilidad de aplicaciones a través de los lanzamientos."
   },
   "exchanges.benefits.increaseProductivity.title": {
-    "message": "Increase Productivity"
+    "message": "Aumenta la productividad"
   },
   "exchanges.benefits.increaseProductivity.text": {
-    "message": "Focus on what matters - application and wallet development - and leave the updates to us."
+    "message": "Concéntrese en lo que importa - desarrollo de aplicaciones y billeteras - y déjenos las actualizaciones a nosotros."
   },
   "exchanges.cta2.title": {
-    "message": "Discover how components work and interact with the Cardano core node, and choose the right component to suit your requirements."
+    "message": "Descubra cómo funcionan los componentes e interactúan con el nodo núcleo Cardano y elija el componente adecuado para sus necesidades."
   },
   "exchanges.cta2.buttonLabel": {
     "message": "Learn the Core Node Architecture"
