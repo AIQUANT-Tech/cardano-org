@@ -1562,7 +1562,7 @@
     "message": "Autenticidad"
   },
   "solutions.data.authenticity.description": {
-    "message": "Combate la falsificación con la autenticidad de productos verificados por blockchain."
+    "message": "Combate la falsificación con la trazabilidad de los productos verificada mediante blockchain en Cardano."
   },
   "solutions.data.sustainability.title": {
     "message": "Sustentabilidad"
@@ -1715,13 +1715,13 @@
     "message": "Los Embajadores de Cardano son fundamentales para aumentar la conciencia global y profundizar la comprensión de nuestro ecosistema. Los Beneficios incluyen:"
   },
   "ambassadors.benefits.benefit1": {
-    "message": "Reconocimiento y visibilidad: Consiga una insignia única y aparezca en los canales oficiales de medios sociales de Cardano, reforzando su reputación en el espacio blockchain."
+    "message": "Reconocimiento y visibilidad: Consigue una insignia única y aparezca en los canales oficiales de medios sociales de Cardano, reforzando tu reputación en el espacio blockchain."
   },
   "ambassadors.benefits.benefit2": {
-    "message": "Acceso e Información Exclusiva: Los embajadores reciben acceso temprano o exclusivo a noticias importantes, actualizaciones y eventos, incluyendo reuniones privadas, seminarios web y sesiones informativas."
+    "message": "Acceso e información exclusiva: Los embajadores reciben acceso temprano o exclusivo a noticias importantes, actualizaciones y eventos, incluyendo reuniones, seminarios web y sesiones informativas."
   },
   "ambassadors.benefits.benefit3": {
-    "message": "Oportunidades de redes: Ser Embajador brinda la oportunidad de conectar con desarrolladores, empresarios y líderes del ecosistema, abriendo puertas a colaboraciones y asociaciones dentro de la comunidad Cardano."
+    "message": "Oportunidades de crear redes: Ser Embajador brinda la oportunidad de conectar con desarrolladores, empresarios y líderes del ecosistema, abriendo puertas a colaboraciones y asociaciones dentro de la comunidad Cardano."
   },
   "ambassadors.benefits.benefit4": {
     "message": "Compromiso y apoyo de la comunidad: Recibe materiales promocionales, oportunidades de financiamiento y herramientas de compromiso diseñadas para ayudarte a impulsar el crecimiento comunitario."
@@ -1733,13 +1733,13 @@
     "message": "Conviértete en un Embajador de Cardano"
   },
   "ambassadors.cta.leftText1": {
-    "message": "El viaje para convertirse en Embajador se basa en la dedicación, la colaboración y las contribuciones significativas. Los embajadores salen de la comunidad participando activamente y haciendo un impacto duradero."
+    "message": "El viaje para convertirse en Embajador se basa en la dedicación, la colaboración y las contribuciones significativas. Los embajadores emergen de la comunidad participando activamente y haciendo un impacto duradero."
   },
   "ambassadors.cta.leftText2": {
-    "message": "Su primer paso comienza en el Foro de Cardano, un espacio dinámico para la colaboración, discusión y intercambio de conocimientos. Al contribuir con información valiosa, entablar conversaciones y apoyar a otros miembros de la comunidad, usted construye una base sólida de confianza e influencia. A medida que avanzan a través de diferentes niveles, se abren nuevas oportunidades para una mayor participación y liderazgo."
+    "message": "El primer paso comienza en el Foro de Cardano, un espacio dinámico para la colaboración, discusión y intercambio de conocimientos. Al contribuir con información valiosa, entablar conversaciones y apoyar a otros miembros de la comunidad, usted construye una base sólida de confianza e influencia. A medida que avanzan a través de diferentes niveles, se abren nuevas oportunidades para una mayor participación y liderazgo."
   },
   "ambassadors.cta.leftText3": {
-    "message": "Ser embajador es un reflejo del compromiso y de la contribución. Quienes apoyan activamente a la comunidad y ayudan a Cardano a crecer naturalmente en este papel."
+    "message": "Ser Embajador es un reflejo del compromiso y de la contribución al ecosistema. Quienes apoyan activamente a la comunidad y ayudan a Cardano a crecer naturalmente en este rol."
   },
   "ambassadors.cta.rightButtonLabel": {
     "message": "Comenzar"
@@ -1772,10 +1772,10 @@
     "message": "La comunidad de Cardano está formada por personas de todo el mundo, que se han unido para crecer y salvaguardar el espíritu y el futuro de Cardano. Se espera que todos los participantes de la comunidad actúen de forma legal, honesta, ética y en el mejor interés del proyecto. Este Código de Conducta ofrece normas y directrices diseñadas para ayudar a juzgar dentro de nuestra comunidad y mantenerlo como un lugar limpio y bien iluminado para el discurso público civilizado sobre el proyecto. Al unirte y participar en cualquiera de los canales oficiales de la comunidad Cardano, confirmas que estás de acuerdo con el Código de conducta."
   },
   "codeOfConduct.improveDiscussion.title": {
-    "message": "Mejorar la discusión"
+    "message": "Mejora la discusión"
   },
   "codeOfConduct.improveDiscussion.description1": {
-    "message": "Ayúdanos a hacer de la comunidad un gran lugar para el debate trabajando siempre para mejorar la discusión de alguna manera, sin embargo pequeña. Si no estás seguro de que tu publicación añada a la conversación, piensa en lo que quieres decir e inténtalo de nuevo más tarde. Los temas discutidos en la comunidad nos importan, y queremos que usted actúe como si también le importan. Sean respetuosos con los temas y con las personas que los discuten, aunque no estén de acuerdo con algunos de los que se están diciendo."
+    "message": "Ayúdanos a hacer de la comunidad un gran lugar para el debate trabajando siempre para mejorar la discusión de alguna manera, hasta la más pequeña. Si no estás seguro de que tu publicación añade valor a la conversación, piensa en lo que quieres decir e inténtalo de nuevo más tarde. Los temas discutidos en la comunidad nos importan y queremos que actúes como si también te importan. Sean respetuosos con los temas y con las personas que los discuten, aunque no estén de acuerdo con algunos de los que se están diciendo."
   },
   "codeOfConduct.improveDiscussion.description2": {
     "message": "Una forma de mejorar el debate es descubriendo aquellos que ya están ocurriendo. Dedique algo de tiempo a buscar en la plataforma de la comunidad antes de responder y tendrá una mejor oportunidad de conocer a otros que comparten sus intereses. Busque siempre para añadir valor. El debate debe ser saludable e informativo y los miembros deben aportar una contribución significativa al desarrollo de Cardano. Esto significa que cualquier contenido compartido o subido en línea debe ser relevante para la comunidad. Por favor, no dude en publicar o difundir información errónea o falsas noticias que intentan crear miedo o dudas."
